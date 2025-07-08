@@ -1,5 +1,5 @@
 # Brain-Tumor-Detection-and-Classification
-# Brain Tumor Classification from MRI using CNN
+
 
 This project uses a Convolutional Neural Network (CNN) to automatically detect and classify brain tumors from MRI scan images into three types: **Meningioma**, **Glioma**, and **Pituitary tumors**.
 
